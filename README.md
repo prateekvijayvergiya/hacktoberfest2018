@@ -32,6 +32,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Name | Year | Branch | Stats |
 | --- | --- | --- | --- |
 | Dhruv Jain | IV | CSE | [@maddhruv](https://hacktoberfest.digitalocean.com/stats/maddhruv) |
+| Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 | [Abhilash Tiwari](https://github.com/abhilashk433/) | III | CSE | |
 | Aakanksha Jain | III | CSE | |
 | Amrit Srivastava | III | CSE | |
