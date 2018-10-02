@@ -32,7 +32,6 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Name | Year | Branch | Stats |
 | --- | --- | --- | --- |
 | Dhruv Jain | IV | CSE | [@maddhruv](https://hacktoberfest.digitalocean.com/stats/maddhruv) |
-| Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 | [Abhilash Tiwari](https://github.com/abhilashk433/) | III | CSE | |
 | Aakanksha Jain | III | CSE | |
 | Amrit Srivastava | III | CSE | |
@@ -65,5 +64,6 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
 | Manpreet | I | IT | |
+| Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 
 *When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
